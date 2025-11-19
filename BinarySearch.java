@@ -50,3 +50,5 @@ public class BinarySearch {
         return start;
 
     }
+
+    //**********************************************FIND ELEMENT IN MOUNTAIN ARRAY*********************************//
